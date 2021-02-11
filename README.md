@@ -17,13 +17,13 @@ This toolboard uses a 16 pin Microfit 3.0 connector and provides XH connections 
 
 # BOM  
 * 1x PCB (See Below)
-* 1 16 pin Microfit3 board connector.  Right angle or upright.
-* 1 2 pin Microfit3 upright board connector.
-* 2x 4 pin XH connectors
-* 5x 2 pin XH connectors
+* 1 16 pin Microfit3 board connector.  [Right angle 43045-1600](https://www.digikey.com/en/products/detail/molex/0430451600/531424) or [43045-1612 upright](https://www.digikey.com/en/products/detail/molex/0430451612/531412).
+* 1 [2 pin Microfit3 upright board connector - Molex 43650-0227](https://www.digikey.com/en/products/detail/molex/0436500227/3310541?s=N4IgTCBcDaICwGYBsBWADAWjWMB2EAugL5A)
+* 2x [4 pin XH connectors - B4B-XH-A](https://www.digikey.com/en/products/detail/jst-sales-america-inc/B4B-XH-A-LF-SN/1651047)
+* 5x [2 pin XH connectors - B2B-XH-A](https://www.digikey.com/en/products/detail/jst-sales-america-inc/B2B-XH-A-LF-SN/1651045)
 * 2x 3 pin jumper headers (optional, may solder jumper instead)
 * 2x 2 pin jumpers (optional, may solder jumper instead)
-* 1x 16 pin Microfit cable connector, or [prewired 16 pin microfit cable harness](https://www.aliexpress.com/item/4001132970645.html?spm=a2g0s.9042311.0.0.27424c4d12p2WJ) (recommended)
+* 1x 16 pin [Microfit3 receptacle - Molex 43025-1600](https://www.digikey.com/en/products/detail/molex/0430251600/531406), or [prewired 16 pin microfit cable harness](https://www.aliexpress.com/item/4001132970645.html?spm=a2g0s.9042311.0.0.27424c4d12p2WJ) (recommended)
 
 # PCB Manufacturing
 I recommend [JLCPB](http://https://jlcpcb.com/) for getting the boards made inexpensively and efficiently.
