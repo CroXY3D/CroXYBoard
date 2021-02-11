@@ -21,6 +21,24 @@ This toolboard uses a 16 pin Microfit 3.0 connector and provides XH connections 
 
 It is possible to use 2 CroXYBoards with one near the printer's controller board and the other at the toolboard.  This may simplify wiring somewhat.  
 
+# PIN ASSIGNMENTS
+1 12V
+2 GND
+3 THERMISTOR A
+4 THERMISTOR B
+5 SWITCH
+6 AUX1
+7 AUX2
+8 AUX3
+9 24V
+10 HOTEND LOW SIDE
+11 HOTEND FAN LOW SIDE
+12 PARTCOOLING FAN LOW SIDE
+13 MOTOR 1
+14 MOTOR 2
+15 MOTOR 3
+16 MOTOR 4
+
 # BOM  
 * 1x PCB (See Below)
 * 1x 16 pin Microfit3 board connector.  [Right angle Molex 43045-1600](https://www.digikey.com/en/products/detail/molex/0430451600/531424) or [Upright Molex 43045-1612](https://www.digikey.com/en/products/detail/molex/0430451612/531412).
