@@ -1,7 +1,7 @@
 # CroXYBoard
 Toolboard for simplifying 3D printer tool wiring.  It is used on the CroXY printer.
 
-![IRL](https://github.com/CroXY3D/CroXYBoard/blob/main/images/irl.png?raw=true)
+![IRL](https://github.com/CroXY3D/CroXYBoard/blob/main/images/irl.jpg?raw=true)
 ![front](https://github.com/CroXY3D/CroXYBoard/blob/main/images/front_sm.png?raw=true)
 ![back](https://github.com/CroXY3D/CroXYBoard/blob/main/images/back_sm.png?raw=true)
 
