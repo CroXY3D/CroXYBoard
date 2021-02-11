@@ -1,5 +1,5 @@
 # CroXYBoard
-Toolboard for simplifying 3D printer tool wiring.  It is used on the CroXY printer.
+CroXYBoard is a small 36mmx34mm toolboard for simplifying 3D printer tool wiring.  It is used on the CroXY and MicroXY printers.
 
 ![IRL](https://github.com/CroXY3D/CroXYBoard/blob/main/images/irl.jpg?raw=true)
 ![front](https://github.com/CroXY3D/CroXYBoard/blob/main/images/front_sm.png?raw=true)
