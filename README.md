@@ -15,6 +15,8 @@ This toolboard uses a 16 pin Microfit 3.0 connector and provides XH connections 
 * Aux - 3 more connections for BLTouch or other use
 * LED - Always on (12/24V selectable via trace cut/jump).  This may be used as a generic power source.
 
+It is possible to use 2 CroXYBoards with one near the printer's controller board and the other at the toolboard.  This may simplify wiring somewhat.  
+
 # BOM  
 * 1x PCB (See Below)
 * 1x 16 pin Microfit3 board connector.  [Right angle Molex 43045-1600](https://www.digikey.com/en/products/detail/molex/0430451600/531424) or [Upright Molex 43045-1612](https://www.digikey.com/en/products/detail/molex/0430451612/531412).
