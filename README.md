@@ -30,9 +30,9 @@ It is possible to use 2 CroXYBoards with one near the printer's controller board
 
 4 THERMISTOR B
 
-5 SWITCH
+5 SWITCH - XH connector has GND as the other pin.
 
-6 AUX1
+6 AUX1 - 4th pin of the AUX connector is GND.
 
 7 AUX2
 
