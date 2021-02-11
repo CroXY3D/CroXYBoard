@@ -23,20 +23,35 @@ It is possible to use 2 CroXYBoards with one near the printer's controller board
 
 # PIN ASSIGNMENTS
 1 12V
+
 2 GND
+
 3 THERMISTOR A
+
 4 THERMISTOR B
+
 5 SWITCH
+
 6 AUX1
+
 7 AUX2
+
 8 AUX3
+
 9 24V
+
 10 HOTEND LOW SIDE
+
 11 HOTEND FAN LOW SIDE
+
 12 PARTCOOLING FAN LOW SIDE
+
 13 MOTOR 1
+
 14 MOTOR 2
+
 15 MOTOR 3
+
 16 MOTOR 4
 
 # BOM  
