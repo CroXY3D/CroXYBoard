@@ -21,8 +21,8 @@ This toolboard uses a 16 pin Microfit 3.0 connector and provides XH connections 
 
 It is possible to use 2 CroXYBoards with one near the printer's controller board and the other at the toolboard.  This may simplify wiring somewhat.  
 
-# PIN ASSIGNMENTS
-1 12V
+# 16 PIN MOLEX PIN ASSIGNMENTS
+1 12V - If using 24V fans, this can be connected to 24V or left disconnected
 
 2 GND
 
@@ -40,11 +40,11 @@ It is possible to use 2 CroXYBoards with one near the printer's controller board
 
 9 24V
 
-10 HOTEND LOW SIDE
+10 HOTEND LOW SIDE - High side is connected to 24V
 
-11 HOTEND FAN LOW SIDE
+11 HOTEND FAN LOW SIDE - High side is jumper selectable
 
-12 PARTCOOLING FAN LOW SIDE
+12 PARTCOOLING FAN LOW SIDE - High Side is jumper selectable
 
 13 MOTOR 1
 
