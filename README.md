@@ -1,8 +1,8 @@
 # CroXYBoard
 Toolboard for simplifying 3D printer tool wiring.  It is used on the CroXY printer.
 
-![front](https://github.com/CroXY3D/CroXYBoard/blob/main/images/front.png?raw=true)
-![back](https://github.com/CroXY3D/CroXYBoard/blob/main/images/back.png?raw=true)
+![front](https://github.com/CroXY3D/CroXYBoard/blob/main/images/front_sm.png?raw=true)
+![back](https://github.com/CroXY3D/CroXYBoard/blob/main/images/back_sm.png?raw=true)
 
 This toolboard uses a 16 pin Microfit 3.0 connector and provides XH connections at the toolhead for:
 * Extruder
