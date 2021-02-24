@@ -22,37 +22,40 @@ This toolboard uses a 16 pin Microfit 3.0 connector and provides XH connections 
 It is possible to use 2 CroXYBoards with one near the printer's controller board and the other at the toolboard.  This may simplify wiring somewhat.  
 
 # 16 PIN MOLEX PIN ASSIGNMENTS
-1 12V - If using 24V fans, this can be connected to 24V or left disconnected
 
-2 GND
+Note that the pre-wired 16p cable reuses colors.  You will have to trace out which is which.  I mark 9-16 with a bit of heatshrink.
 
-3 THERMISTOR A
+1 (Yellow) 12V - If using 24V fans, this can be connected to 24V or left disconnected
 
-4 THERMISTOR B
+2 (Brown) GND
 
-5 SWITCH - XH connector has GND as the other pin.
+3 (Purple) THERMISTOR A
 
-6 AUX1 - 4th pin of the AUX connector is GND.
+4 (Blue) THERMISTOR B
 
-7 AUX2
+5 (Green) SWITCH - XH connector has GND as the other pin.
 
-8 AUX3
+6 (White) AUX1 - 4th pin of the AUX connector is GND.
 
-9 24V
+7 (Black) AUX2
 
-10 HOTEND LOW SIDE - High side is connected to 24V
+8 (Red) AUX3
 
-11 HOTEND FAN LOW SIDE - High side is jumper selectable
+9 (Yellow) 24V
 
-12 PARTCOOLING FAN LOW SIDE - High Side is jumper selectable
+10 (Brown) HOTEND LOW SIDE - High side is connected to 24V
 
-13 MOTOR 1
+11 (Purple) HOTEND FAN LOW SIDE - High side is jumper selectable
 
-14 MOTOR 2
+12 (Blue) PARTCOOLING FAN LOW SIDE - High Side is jumper selectable
 
-15 MOTOR 3
+13 (Green) MOTOR 1
 
-16 MOTOR 4
+14 (White) MOTOR 2
+
+15 (Black) MOTOR 3
+
+16 (Red) MOTOR 4
 
 # BOM  
 * 1x PCB (See Below)
