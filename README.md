@@ -1,7 +1,7 @@
 # CroXYBoard
 CroXYBoard is a small 36x34mm toolboard for simplifying 3D printer tool wiring.  It is used on the CroXY and MicroXY printers.  
 
-_It was developed from the ground up, but shares some similarities with Annex's Carabiner board.  I helped develop the Carabiner, but Annex's excessively restrictive license has forced me to make something from scratch._
+_It was developed from the ground up, but shares some similarities with the Carabiner board._
 
 ![right angle](https://github.com/CroXY3D/CroXYBoard/blob/main/images/populated_ra.png?raw=true)
 Right Angle Connector
